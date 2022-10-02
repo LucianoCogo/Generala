@@ -1,0 +1,761 @@
+# depslib dependency file v1.0
+1654886221 source:c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"tirarDados.h"
+	"reRoll.h"
+	"analizarPuntos.h"
+	"interfazDupla.h"
+	"interfazSolo.h"
+	"dupla.h"
+	"INTERFACES.h"
+
+1654395566 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1654357371 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1654887382 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\tirardados.h
+
+1654890729 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\reroll.h
+	"INTERFACES.h"
+
+1654839787 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\analizarpuntos.h
+
+1654843366 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\interfazdupla.h
+
+1654886753 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\interfazsolo.h
+
+1654843366 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\dupla.h
+
+1654842303 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\solitario.h
+
+1654841687 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\juego.h
+
+1654843366 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\menuinicio.h
+
+1654890137 c:\users\gomez\desktop\tp funciones\generala graciela\proyecto generala\interfaces.h
+
+1654886221 source:c:\users\gomez\desktop\proyecto generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"tirarDados.h"
+	"reRoll.h"
+	"analizarPuntos.h"
+	"interfazDupla.h"
+	"interfazSolo.h"
+	"dupla.h"
+	"INTERFACES.h"
+
+1655244682 c:\users\gomez\desktop\proyecto generala\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1654357371 c:\users\gomez\desktop\proyecto generala\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\gomez\desktop\proyecto generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655322349 c:\users\gomez\desktop\proyecto generala\tirardados.h
+
+1654890729 c:\users\gomez\desktop\proyecto generala\reroll.h
+	"INTERFACES.h"
+
+1655259903 c:\users\gomez\desktop\proyecto generala\interfaces.h
+
+1655333980 c:\users\gomez\desktop\proyecto generala\analizarpuntos.h
+
+1654843366 c:\users\gomez\desktop\proyecto generala\interfazdupla.h
+
+1655333804 c:\users\gomez\desktop\proyecto generala\interfazsolo.h
+
+1654843366 c:\users\gomez\desktop\proyecto generala\dupla.h
+
+1654886221 source:c:\users\gomez\desktop\proyecto generala version2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"tirarDados.h"
+	"reRoll.h"
+	"analizarPuntos.h"
+	"interfazDupla.h"
+	"interfazSolo.h"
+	"dupla.h"
+	"INTERFACES.h"
+
+1655244682 c:\users\gomez\desktop\proyecto generala version2\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1654357371 c:\users\gomez\desktop\proyecto generala version2\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\gomez\desktop\proyecto generala version2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655322349 c:\users\gomez\desktop\proyecto generala version2\tirardados.h
+
+1654890729 c:\users\gomez\desktop\proyecto generala version2\reroll.h
+	"INTERFACES.h"
+
+1655259903 c:\users\gomez\desktop\proyecto generala version2\interfaces.h
+
+1655334890 c:\users\gomez\desktop\proyecto generala version2\analizarpuntos.h
+
+1654843366 c:\users\gomez\desktop\proyecto generala version2\interfazdupla.h
+
+1655334890 c:\users\gomez\desktop\proyecto generala version2\interfazsolo.h
+
+1654843366 c:\users\gomez\desktop\proyecto generala version2\dupla.h
+
+1655422194 source:c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"tirarDados.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazDupla.h"
+	"interfazSolo.h"
+	"dupla.h"
+	"INTERFACES.h"
+
+1655244682 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1654357371 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655322349 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\tirardados.h
+
+1655424442 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\reroll.h
+	"INTERFACES.h"
+
+1655259903 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\interfaces.h
+
+1655334890 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\analizarpuntos.h
+
+1654843366 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\interfazdupla.h
+
+1655424435 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\interfazsolo.h
+
+1654843366 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version2\dupla.h
+
+1655422194 source:c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"tirarDados.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazDupla.h"
+	"interfazSolo.h"
+	"dupla.h"
+	"INTERFACES.h"
+
+1655244682 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1654357371 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655322349 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\tirardados.h
+
+1655334890 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\analizarpuntos.h
+
+1655427323 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\reroll.h
+	"INTERFACES.h"
+
+1655259903 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\interfaces.h
+
+1654843366 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\interfazdupla.h
+
+1655424435 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\interfazsolo.h
+
+1654843366 c:\users\samor\desktop\pruebas projecto\projecto integrador\proyecto generala version3\dupla.h
+
+1655487430 source:c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"funciones.h"
+	"rlutil.h"
+	"tirarDados.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazDupla.h"
+	"interfazSolo.h"
+	"dupla.h"
+	"INTERFACES.h"
+
+1655487543 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1654357371 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655486901 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\tirardados.h
+
+1655334890 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\analizarpuntos.h
+
+1655427323 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\reroll.h
+	"INTERFACES.h"
+
+1655259903 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\interfaces.h
+
+1654843366 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\interfazdupla.h
+
+1655487790 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\interfazsolo.h
+
+1654843366 c:\users\luciano\desktop\utn\laboratorio de computacion\codigos\projecto integrador\dupla.h
+
+1657666665 source:c:\users\samor\desktop\pruebas projecto\projecto integrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"INTERFACES.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazSolo.h"
+	"interfazDupla.h"
+	"mostrarMaximoPuntaje.h"
+
+1654357371 c:\users\samor\desktop\pruebas projecto\projecto integrador\funcionesutilesfinal.h
+	<windows.h>
+
+1657668459 c:\users\samor\desktop\pruebas projecto\projecto integrador\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1654391360 c:\users\samor\desktop\pruebas projecto\projecto integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657667594 c:\users\samor\desktop\pruebas projecto\projecto integrador\tirardados.h
+
+1657663049 c:\users\samor\desktop\pruebas projecto\projecto integrador\analizarpuntos.h
+
+1657665270 c:\users\samor\desktop\pruebas projecto\projecto integrador\reroll.h
+
+1657668407 c:\users\samor\desktop\pruebas projecto\projecto integrador\interfaces.h
+
+1657680131 c:\users\samor\desktop\pruebas projecto\projecto integrador\interfazdupla.h
+
+1657632958 c:\users\samor\desktop\pruebas projecto\projecto integrador\interfazsolo.h
+
+1654843366 c:\users\samor\desktop\pruebas projecto\projecto integrador\dupla.h
+
+1655635641 source:c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazDupla.h"
+	"interfazSolo.h"
+	"dupla.h"
+	"INTERFACES.h"
+
+1654357371 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655635593 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1655662593 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\tirardados.h
+
+1655663639 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\analizarpuntos.h
+
+1655665652 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\reroll.h
+	"INTERFACES.h"
+
+1655259903 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\interfaces.h
+
+1654843366 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\interfazdupla.h
+
+1655666636 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\interfazsolo.h
+
+1654843366 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_version_3.03\dupla.h
+
+1656689594 c:\users\samor\desktop\pruebas projecto\projecto integrador\mostrarmaximopuntaje.h
+
+1656534302 source:c:\users\luciano\desktop\a\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazSolo.h"
+	"interfazDupla.h"
+	"mostrarMaximoPuntaje.h"
+	"INTERFACES.h"
+
+1654357371 c:\users\luciano\desktop\a\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\luciano\desktop\a\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655959118 c:\users\luciano\desktop\a\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1655959118 c:\users\luciano\desktop\a\tirardados.h
+
+1656533715 c:\users\luciano\desktop\a\analizarpuntos.h
+
+1656541399 c:\users\luciano\desktop\a\reroll.h
+	"INTERFACES.h"
+
+1655959118 c:\users\luciano\desktop\a\interfaces.h
+
+1656538920 c:\users\luciano\desktop\a\interfazsolo.h
+
+1656539371 c:\users\luciano\desktop\a\interfazdupla.h
+
+1656018848 c:\users\luciano\desktop\a\mostrarmaximopuntaje.h
+
+1656534302 source:c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazSolo.h"
+	"interfazDupla.h"
+	"mostrarMaximoPuntaje.h"
+	"INTERFACES.h"
+
+1654357371 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655959118 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1656622460 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\tirardados.h
+
+1656625065 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\analizarpuntos.h
+
+1656624067 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\reroll.h
+	"INTERFACES.h"
+
+1655959118 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\interfaces.h
+
+1656624112 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\interfazsolo.h
+
+1656624954 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\interfazdupla.h
+
+1656018848 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.13\mostrarmaximopuntaje.h
+
+1656534302 source:c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazSolo.h"
+	"interfazDupla.h"
+	"mostrarMaximoPuntaje.h"
+	"INTERFACES.h"
+
+1654357371 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656637256 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1656622460 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\tirardados.h
+
+1656637147 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\analizarpuntos.h
+
+1656624067 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\reroll.h
+	"INTERFACES.h"
+
+1655959118 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\interfaces.h
+
+1656624112 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\interfazsolo.h
+
+1656624954 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\interfazdupla.h
+
+1656018848 c:\users\samor\desktop\pruebas projecto\avances\proyecto_generala_3.15\mostrarmaximopuntaje.h
+
+1657834898 source:c:\users\gomez\desktop\proyecto_generala_3.23\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"INTERFACES.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazSolo.h"
+	"interfazDupla.h"
+	"mostrarMaximoPuntaje.h"
+
+1654357371 c:\users\gomez\desktop\proyecto_generala_3.23\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\gomez\desktop\proyecto_generala_3.23\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657668459 c:\users\gomez\desktop\proyecto_generala_3.23\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1657667594 c:\users\gomez\desktop\proyecto_generala_3.23\tirardados.h
+
+1657668407 c:\users\gomez\desktop\proyecto_generala_3.23\interfaces.h
+
+1657663049 c:\users\gomez\desktop\proyecto_generala_3.23\analizarpuntos.h
+
+1657665270 c:\users\gomez\desktop\proyecto_generala_3.23\reroll.h
+
+1657632958 c:\users\gomez\desktop\proyecto_generala_3.23\interfazsolo.h
+
+1657680131 c:\users\gomez\desktop\proyecto_generala_3.23\interfazdupla.h
+
+1656689594 c:\users\gomez\desktop\proyecto_generala_3.23\mostrarmaximopuntaje.h
+
+1657834898 source:c:\users\gomez\desktop\generala final  entrega\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"INTERFACES.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazSolo.h"
+	"interfazDupla.h"
+	"mostrarMaximoPuntaje.h"
+
+1654357371 c:\users\gomez\desktop\generala final  entrega\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\gomez\desktop\generala final  entrega\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657668459 c:\users\gomez\desktop\generala final  entrega\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1657667594 c:\users\gomez\desktop\generala final  entrega\tirardados.h
+
+1657668407 c:\users\gomez\desktop\generala final  entrega\interfaces.h
+
+1657663049 c:\users\gomez\desktop\generala final  entrega\analizarpuntos.h
+
+1657665270 c:\users\gomez\desktop\generala final  entrega\reroll.h
+
+1657632958 c:\users\gomez\desktop\generala final  entrega\interfazsolo.h
+
+1657680131 c:\users\gomez\desktop\generala final  entrega\interfazdupla.h
+
+1656689594 c:\users\gomez\desktop\generala final  entrega\mostrarmaximopuntaje.h
+
+1657834898 source:c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funcionesUtilesFinal.h"
+	"rlutil.h"
+	"funciones.h"
+	"tirarDados.h"
+	"INTERFACES.h"
+	"analizarPuntos.h"
+	"reRoll.h"
+	"interfazSolo.h"
+	"interfazDupla.h"
+	"mostrarMaximoPuntaje.h"
+
+1654357371 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\funcionesutilesfinal.h
+	<windows.h>
+
+1654391360 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657668459 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\funciones.h
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
+1657667594 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\tirardados.h
+
+1657668407 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\interfaces.h
+
+1657663049 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\analizarpuntos.h
+
+1657665270 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\reroll.h
+
+1657632958 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\interfazsolo.h
+
+1657680131 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\interfazdupla.h
+
+1656689594 c:\users\luciano\desktop\importante\proyectos finalizados\tp generala cogo-gomez-orellano\mostrarmaximopuntaje.h
+
